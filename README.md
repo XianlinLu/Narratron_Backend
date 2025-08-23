@@ -1,3 +1,5 @@
+# Narratron_Backend
+
 Shadow Playing with Storytelling AI
 Created by Aria Xiying Bao and Yubo Zhao at the MIT’s School of Architecture and Planning, Narratron is an interactive projector that augments hand shadow puppetry with AI-generated storytelling. Designed for all ages, it transforms traditional physical shadow plays into an immersive and phygital storytelling experience.
 
@@ -15,4 +17,3 @@ npm run dev
 yarn dev
 # or
 pnpm dev
-# Narratron_Backend
